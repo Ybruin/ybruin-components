@@ -2,7 +2,7 @@
 	"name": "foo",
 	"version": "1.0.0",
 	"description": "foo module",
-	"file": [
+	"files": [
 		"foo.tpl"
 	]
 }

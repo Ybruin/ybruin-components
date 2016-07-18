@@ -3,7 +3,7 @@
 	"version": "1.0.1",
 	"description": "foo module",
 	"main": "foo.js",
-	"file": [
+	"files": [
 		"back-icon.png",
 		"foo.css",
 		"foo.js",

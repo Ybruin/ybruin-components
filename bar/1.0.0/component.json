@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "bar module",
 	"main": "bar.js",
-	"file": [
+	"files": [
 		"bar.js",
 		"bar.tpl"
 	]
