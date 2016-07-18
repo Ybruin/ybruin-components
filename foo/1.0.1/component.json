@@ -1,0 +1,12 @@
+{
+	"name": "foo",
+	"version": "1.0.1",
+	"description": "foo module",
+	"main": "foo.js",
+	"file": [
+		"back-icon.png",
+		"foo.css",
+		"foo.js",
+		"foo.tpl"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "bar",
+	"version": "1.0.0",
+	"description": "bar module",
+	"main": "bar.js",
+	"file": [
+		"bar.js",
+		"bar.tpl"
+	]
+}
