@@ -1,0 +1,10 @@
+{
+	"name": "mod-pic",
+	"version": "1.0.0",
+	"description": "mod-pic module",
+	"main": "mod-pic.js",
+	"files": [
+		"mod-pic.css",
+		"mod-pic.js"
+	]
+}
